@@ -49,12 +49,12 @@ Es un marco de trabajo a través del cual las personas pueden abordar problemas 
 ● La comunicación.
 ●Transparencia: Dar visibilidad a todo el equipo de lo que está pasando. Planificación, tareas diarias, logros, resultados y progresos. Definidos en base a un estándar común, que haya un entendimiento de lo que se está viendo, como compartir un lenguaje en común y compartir la definición común de “Terminado”.
 ●Adaptación: Si se determina que uno o más aspectos de un proceso se desvían de los límites aceptables y que el producto resultante será inaceptable, el proceso o el material que está siendo procesado deben ajustarse. Dicho ajuste deberá realizarse cuanto antes para minimizar desviaciones mayores.
-●Inspección: Los usuarios de Scrum deben inspeccionar frecuentemente los Artefactos de Scrum y el progreso hacia un objetivo para detectar variaciones indeseadas. Esto artefactos son:  
+●Inspección: Los usuarios de Scrum deben inspeccionar frecuentemente los Artefactos de Scrum y el progreso hacia un objetivo para detectar variaciones indeseadas. Esto artefactos son:
  *Product Backlog: Es un listado de todas las tareas que se pretenden hacer, asignadas en un orden de prioridad en base a las necesidades del cliente y la complejidad de la activiad durante el desarrollo de un proyecto.
 *Sprint Backlog: El equipo generalmente divide el trabajo en elementos llamados Sprint Backlog. Estos elementos pueden representar tareas que el equipo debe completar, bloques de construcción intermedios que se combinan en una entrega, o cualquier otra unidad de trabajo que ayude al equipo a comprender cómo lograr el Sprint Goal dentro del Sprint. Para esto se utiliza el tablero Kanban y tiene al menos tres columnas con estados base:
 «To Do» / Por hacer (punto de entrada de una tarea)
 «W.I.P» / Trabajo en proceso
-«Done» (Terminado)  
+«Done» (Terminado)
  \*El incremento: Nos permite estar un paso más cerca de cubrir las necesidades de nuestros usuarios y de conseguir el Product Goal. Es por ello, que cada incremento se suma a los anteriores que han sido verificados. Para asegurarnos de que el Product Backlog se convierta en un incremento, debe cumplir la definición de «hecho»
 
 SPRINT

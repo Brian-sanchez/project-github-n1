@@ -7,9 +7,9 @@ def totales(hist):
         total += monto
 
     if total < 30000:
-        print('Gastos por atención de Puppy', total)
+        print("Gastos por atención de Puppy", total)
     else:
-        print('Gastos por encima de lo presupuestado')
+        print("Gastos por encima de lo presupuestado")
 
 
 totales(historial)

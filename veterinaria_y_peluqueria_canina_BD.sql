@@ -87,4 +87,3 @@ FROM
 WHERE
     p.Fecha_nac > '2017-01-01'
     AND h.Fecha < '2022-01-01';
-
